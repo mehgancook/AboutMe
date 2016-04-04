@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_me">Hi! My name is Mehgan Cook. I will be graduating in the spring
+    and I have a job lined up as an implementation consultant for Fast Enterprises. My favorite
+    class so far was software development. I enjoyed learning about the development cycle as well
+    as coding a fairly large project with a group. </string>
+    <string name="alert_dialog">Is my dog cute?</string>
+    <string name="yes">Of course!!!</string>
+    <string name="no">No way!</string>
+    <string name="title_activity_display_text">displayText</string>
+    <string name="title_activity_display_image">displayImage</string>
+    <string name="title_activity_display_web">displayWeb</string>
+</resources>
